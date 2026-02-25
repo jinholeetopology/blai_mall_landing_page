@@ -1,0 +1,12 @@
+
+# 가상환경 활성화
+
+source .venv/bin/activate
+
+# 로컬 서버 실행
+
+python -m http.server 5500
+
+# URL
+
+http://localhost:5500/

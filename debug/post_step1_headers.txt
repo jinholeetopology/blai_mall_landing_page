@@ -1,0 +1,17 @@
+HTTP/2 302 
+content-type: text/html; charset=UTF-8
+access-control-allow-origin: *
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 24 Feb 2026 06:46:07 GMT
+location: https://script.googleusercontent.com/macros/echo?user_content_key=AY5xjrRBzJap2-D-z9maQbxyghLX_fDAGfYhRhy7PrIFll9FOTuE9q2cSs2zJkhn9wBVm7FvQwmQuySmCQSy4RjNSz31JaP8LNVnfWUoRgDGExrmc1_2RodYkgmOckQ1nKkPoFWh91LqDIE2536AGJgD2lU_RzUR3eak3PHR6StMGoRWRFQVXbU5AsXSJGFcZ3zmdbU9UEmt9OhXgF8JVn51cJJrfYdpFc0RlcY0S89bhHi3a3yc9iGhafqWUfNrnuFJryEiv56jWfruUJ6zmvohYmRE7Cmetw&lib=MORXQxQsQVJDDqt_Az2WeNEYdvOtBXHQD
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors 'self'
+x-xss-protection: 1; mode=block
+server: GSE
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+accept-ranges: none
+vary: Accept-Encoding
+

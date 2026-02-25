@@ -1,0 +1,22 @@
+=== GAS Inquiry Debug Summary ===
+Timestamp: 20260224_155631
+URL: https://script.google.com/macros/s/AKfycbwm31C6kqC9_JvHHudi1O7xep9WXyTJuSLMBV3Q7CufSYCsFXDbM9XGUTEaJ2MEE7lS/exec
+
+[GET] final status
+HTTP/2 200 
+
+[POST] step1 status (exec URL)
+HTTP/2 302 
+
+[POST] redirect URL
+https://script.googleusercontent.com/macros/echo?user_content_key=AY5xjrRrM6lLrIM20sIR5fCRpYZcpGU5cxXH1YeevNVABYQ3eDAcARiV24Iu50t8FmO1ZzXrOK1Fm-S6kHYeRgVg0j1j_Om3BWMIO82kPpVlMQzxAiRqYobAq2QHlJ8q-AEXHj7MULmKtc17REctUTFfb_i-4Qo8UYnZQvKeL07lRPbdoQpOWwZVEWwod5oQJ7rKbNA8CK29W8UvzUtdfNq4F52s1arYs1pbeSi_ofdh5QEFYGhAMeXe-hAIE2GtIPiNtvkYwUeOgqkJPIWOG2xcFSGxcdwYIA&lib=MORXQxQsQVJDDqt_Az2WeNEYdvOtBXHQD
+
+[POST] step2 status (googleusercontent URL)
+HTTP/2 200 
+
+[GET BODY head]
+{"ok":true,"service":"landing-page-inquiry-sheet","timestamp":"2026-02-24T06:56:34.618Z"}
+[POST BODY head]
+{"ok":true,"id":"INQ-20260224_155641-8013","message":"문의가 저장되었습니다."}
+[POST BODY JSON grep]
+{"ok":true,"id":"INQ-20260224_155641-8013","message":"문의가 저장되었습니다."}

@@ -1,0 +1,35 @@
+HTTP/2 302 
+content-type: text/html; charset=UTF-8
+access-control-allow-origin: *
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 24 Feb 2026 06:56:34 GMT
+location: https://script.googleusercontent.com/macros/echo?user_content_key=AY5xjrR0rFUrmXffIo-Df25VWiQsKQ3RKI1nMWpMsOH9eybfEmwxim8U7Ca6uuz2hzQb5YW9R9jUO66qZ7TUdPWccC9CXU8oFzGMf2gGt6uZQj2sWXQw8r8-ow2MeHh_w16oC4kIXlx16Tc2tHdl_Y5dSRcfm_3KdsI8FZ4H0_9aI1j7kZmscmIA4oHCTd18VT5qT70dwVqYmbjpyK36TYvaLFx5vagsLBEHXkq7SbsGMuTMTScEWuXL6akwDYOF8fYm-YEoMidOQe_ecAkeRr3a7FLyJ62Shg&lib=MORXQxQsQVJDDqt_Az2WeNEYdvOtBXHQD
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors 'self'
+x-xss-protection: 1; mode=block
+server: GSE
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+accept-ranges: none
+vary: Accept-Encoding
+
+HTTP/2 200 
+content-type: application/json; charset=utf-8
+x-content-type-options: nosniff
+access-control-allow-origin: *
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 24 Feb 2026 06:56:37 GMT
+reporting-endpoints: default="/macros/web-reports?bl=editors.maestro_20260215.02_p1&context=eJwVzGtU1GUCB2D8z_v-yBZQB0cuheCgOGgSsAe0uIzTMDBogmi5cTQ9HsKN0EAwRddawOQEGdVacI66ggzgbNiktiWypSfSXGn3iJc177EIw22GQbmvLOxvPzxfn6e7ZyQu6lNSqP9OnzJJhw48Vr6gxe2Pld-SfH5Q8aTvVwwqF8laOKycJH3xsJJE97NHlU7yto0qwfQodkwZp9a4MeUWfbxlTKmk33w4pnjTVseYspc-3TSuHKOQlnEljIpax5VSaqr-j9JMz787oeipaWpSaSaPgCllNj27e0qZT5_vclPVkataUY3S6QuKqoly1qpUu2htkUq1noZKVKoJulOrUj34v06Vyk53pgtVO1W7XhRW-i42RqSlxYiDF2KEhW6Wxwo7na6MFU20QBsnoshjWZyYTWcD4sVlWjoaL5LopNkgGsmw0iCSyWfvSyKQinKNopR27TSKP9LpGqP4kY5-ZRT1tP0bo9hNURUJwkTHF5vEV7Qo3SRiqDvLJAZo1XaTeJVyz5lEAZntJrGarFGJ4iRdH00Sd6k82ywqaOimWYhfzOKKOln8QgXuK0Qh9a2pkoNkyqqSq0i9r0oG00JaRrrGKhlOaxurZQZFDVXLOJq375iMIHNqjVxNly5a5BU6dc8iz9I_XRb5L0rKqpWpVLy1VpaRb3mt1NG6jlq5kcSpOulBfin1ch79u6hePiKf7-tlIEXtPy7j6L7juHTSI5rmPC79aRHVBVrllzS6yirdU6xyIN0qx6is5wv5J_JZ0iADyZTSIFfRgoIGGU2t7zbIW5RUdkKm0mcLbfIIHcqwyRpKedsm11HXzl7pohBbrwwju7pPjlB-W598nz7TO-QRamh2yK9p_2tO-RFVHnLKKtpf55QVtHeDSx4gn04PBJJupifCafKMJ9DoiWs_e-IhJft6IZ0SvvXCKxR53gsvUsZFL2TTC1UzYKBzdTPxEz08PQt9dDBcjcNkS1HjHK2zqbGR0rTeSKd7S73RQZc2e-MKPX1_NtT0wzQNrlKISoNoykzRYBsV7tbgA3pvjwYllFSiQSo9vKzBIMkWDTSko2VUQhV0_oYGV0i3cg6W0a_H5qCLMu7NQTa1Z_uglx5M-cBOpVt88Sm9afNFLgW1-PL0xSvH_LCBJmr8ICx-kDY_aMjT1x8BFFPmDyOljfkjnZ795BnMp1kn5sLNNRdPke2vgfiWlroHQU-mt4JwtDEI9fSzZR6uU1v_PHTTUJgWExT6jhYRlF-ixR8osFSLhTRYpcUT0kxqEUBfxgbjG5qID4bQB6PrRjBctL1hPlrJRaNU8rsQlFP2ayHIp_ehwwF6y0uHPIp-Tod4yqjRIZt67To8prYZoeim1lmhuEWZs0OxjYI1oVhM7idiMIPclsRiJlWmxKKKDrvFwUJBFXHQ0frSeGRQ03w9mumCRY8bVFarxyF6MqWHym05xJLl8KDDF5bDQhELDHiBiowGlNKKPxuwhgpaDCikzVcNyKKAXgMW0Hs-L6GcPtpqxOcUWmBEBD3pM0LlMOL3I0bkUOf6BDjpcn8CrlLWXhO2U7HLhIOUp07EHvq1MBFddKQ2EbU0cSkR4u-JOLUjCWdp44kkbCF_WxK09LcwM36kXKsZBeTdZsYztDgoGTG0p6wdxdS8ugMttHZNB9bT2-Md2ElThXa4F9mxodmON6izthtOSvDowct0pq0H5-n2vl700DZHL96haHUf4imkoA9hdFvvQA91nnHASUebHain8XAnpkc4UZzpRBlNi-vHdPrhaxcu07XXB3CHrucN4C7lTQ6gmKyxj3GSutIG4aJrBwfRTsOZQ_gvdf5lGE56NXkEmXT45RFY6KfUEdykAyvHcIR6WscwTg-em0A_qT2eqqsc_gdmfmK_e3uavzBlvJmjnZv5RtaOnLz8sG2bM_N35OVsigyPjA6PjIgKC4_clBvxP2MYANQ&build-label=editors.maestro_20260215.02_p1&is-cached-offline=false"
+document-policy: include-js-call-stacks-in-crash-reports
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors 'self'
+x-xss-protection: 1; mode=block
+server: GSE
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+accept-ranges: none
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+
